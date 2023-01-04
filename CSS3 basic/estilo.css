@@ -1,0 +1,40 @@
+.tituloPrincipal{
+    color: white;
+    background: gray;
+    padding: 18px;
+}
+
+.fundo{
+
+    background: black url('Imagens/fundo.JPG');
+
+}
+
+.fontes{
+
+    color: white;
+    font: 16px Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+
+a{
+    color: yellow;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.centralizar{
+    text-align: center;
+    font-weight: bold;
+}
+
+h1{
+    font-size: 1.2em;
+}
+
+.materiais{
+    border: 10px inset rgb(182, 182, 182);
+    width: 20em;
+    height: 15em;
+}
